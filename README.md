@@ -26,11 +26,15 @@ This package can be used as submodule.
 External Dependencies
 ---------------------
 - CSPP\_Core: https://git.gsi.de/EE-LV/CSPP/CSPP_Core
-- Blowfish Encryption Algorithm: http://www.ni.com/example/28473/en/
+- Blowfish Encryption Algorithm: 
+  - https://www.labviewforum.de/Thread-Blowfish-6-0 included in distribution or
+  - http://www.ni.com/example/28473/en/
 
 Getting started:
 =================================
 - Add BNT_Factories.lvlib into your own LabVIEW project.
+- Extract to C:\Program Files (x86)\National Instruments\LabVIEW 2018\user.lib\Blowfish6.0
+
 
 BNT_BlowfishFactory
 -------------------
