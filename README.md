@@ -26,6 +26,7 @@ This package can be used as submodule.
 External Dependencies
 ---------------------
 - CSPP\_Core: https://git.gsi.de/EE-LV/CSPP/CSPP_Core
+- Blowfish Encryption Algorithm: http://www.ni.com/example/28473/en/
 
 Getting started:
 =================================
